@@ -1,0 +1,1842 @@
+[2023-06-24 14:28:55] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 14:29:43] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 14:31:39] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 15:44:31] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 15:44:38] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 15:45:19] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 15:45:21] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 15:47:39] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 15:47:57] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 15:47:57] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 15:47:57] [[32minfo[39m] Routes loaded!
+[2023-06-24 15:59:01] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 15:59:01] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 15:59:01] [[32minfo[39m] Routes loaded!
+[2023-06-24 15:59:11] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 15:59:11] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 15:59:11] [[32minfo[39m] Routes loaded!
+[2023-06-24 15:59:20] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 15:59:20] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 15:59:20] [[32minfo[39m] Routes loaded!
+[2023-06-24 15:59:26] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 15:59:26] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 15:59:26] [[32minfo[39m] Routes loaded!
+[2023-06-24 15:59:29] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 15:59:29] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 15:59:29] [[32minfo[39m] Routes loaded!
+[2023-06-24 15:59:32] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 15:59:32] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 15:59:32] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:00:12] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:00:12] [[31merror[39m] uncaughtException: router.WebRoutes is not a constructor
+TypeError: router.WebRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-06-24 16:00:15] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:00:15] [[31merror[39m] uncaughtException: router.WebRoutes is not a constructor
+TypeError: router.WebRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-06-24 16:32:45] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:32:45] [[31merror[39m] uncaughtException: router.Routes is not a constructor
+TypeError: router.Routes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-06-24 16:32:47] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:32:47] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:32:47] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:33:37] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:33:37] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:33:37] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:33:40] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:33:40] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:33:40] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:33:51] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:33:51] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam 3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam 3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at WebRoutes.initRoutes (E:\Najot talim\Exam 3\src\routes\computer.js:19:17)
+    at new WebRoutes (E:\Najot talim\Exam 3\src\routes\computer.js:14:10)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-24 16:34:28] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:34:28] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam 3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam 3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam 3\src\routes\computer.js:19:17)
+    at new ComputerRoutes (E:\Najot talim\Exam 3\src\routes\computer.js:14:10)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-24 16:34:46] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:34:46] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:34:46] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:35:30] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:35:30] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:35:30] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:35:37] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:35:38] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:35:38] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:35:45] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:35:45] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:35:45] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:35:50] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:35:50] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:35:50] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:38:01] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:38:01] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:38:01] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:38:13] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:38:13] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:38:13] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:39:39] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:39:39] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:39:39] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:39:47] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:39:47] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:39:47] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:39:59] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:39:59] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:39:59] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:40:06] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:40:06] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:40:06] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:42:16] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:42:16] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:42:16] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:42:17] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:42:17] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:42:17] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:42:22] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:42:22] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:42:22] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:42:27] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:42:27] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:42:27] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:42:33] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:42:33] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:42:33] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:42:37] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:42:37] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:42:37] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:42:40] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:42:40] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:42:40] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:42:47] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:42:47] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:42:47] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:42:48] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:42:48] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:42:48] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:42:54] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:42:54] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:42:54] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:42:56] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:42:56] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:42:56] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:42:58] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:42:58] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:42:58] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:43:02] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:43:02] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 16:43:02] [[32minfo[39m] Routes loaded!
+[2023-06-24 16:43:07] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:43:07] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:43:14] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:43:14] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:43:16] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:43:16] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:43:41] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:43:41] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:44:13] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:44:14] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:44:24] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:44:25] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:44:26] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:44:26] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:46:46] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:46:46] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:46:58] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:46:58] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:47:05] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:47:05] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:47:09] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:47:09] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:47:11] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:47:11] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:47:14] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:47:14] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:47:17] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:47:17] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:47:22] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:47:22] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:47:26] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:47:26] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:47:31] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:47:31] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:47:35] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:47:35] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:47:45] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:47:45] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:48:09] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:48:09] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:48:10] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:48:10] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:48:15] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:48:15] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:48:17] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:48:17] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:48:22] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:48:22] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:48:24] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:48:24] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:48:35] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:48:35] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:48:53] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:48:53] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:48:58] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:48:58] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:49:02] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:49:02] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:49:05] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:49:05] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:49:13] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:49:13] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:49:16] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:49:16] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:49:17] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:49:17] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:49:22] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:49:22] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:49:24] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:49:24] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:49:30] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:49:30] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:49:36] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:49:36] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:49:38] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:49:38] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:49:41] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:49:41] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:49:43] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:49:43] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:49:50] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:49:50] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:49:50] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:49:50] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:50:05] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:50:06] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:50:09] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:50:09] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:50:11] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:50:11] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:50:13] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:50:13] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:50:15] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:50:15] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:50:17] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:50:17] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:50:20] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:50:20] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:50:25] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:50:25] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:50:27] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:50:27] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:50:29] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:50:29] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:50:50] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:50:50] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:50:53] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:50:53] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:51:05] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:51:05] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:51:30] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:51:30] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:51:36] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:51:36] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:51:48] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:51:48] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:52:34] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:52:34] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:52:42] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:52:42] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:52:45] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:52:45] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:53:02] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:53:02] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:53:11] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:53:11] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:53:16] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:53:16] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:53:22] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:53:22] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 16:53:24] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 16:53:24] [[31merror[39m] uncaughtException: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+Error: Cannot find module '@prisma/client'
+Require stack:
+- E:\Najot talim\Exam 3\src\controllers\auth.js
+- E:\Najot talim\Exam 3\src\routes\auth.js
+- E:\Najot talim\Exam 3\src\routes\index.js
+- E:\Najot talim\Exam 3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 17:05:52] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:05:52] [[31merror[39m] uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (E:\Najot talim\Exam 3\node_modules\.pnpm\@prisma+client@4.16.1_prisma@4.16.1\node_modules\.prisma\client\index.js:5:11)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\routes\auth.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-24 17:07:43] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:07:43] [[31merror[39m] uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (E:\Najot talim\Exam 3\node_modules\.pnpm\@prisma+client@4.16.1_prisma@4.16.1\node_modules\.prisma\client\index.js:5:11)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\controllers\auth.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam 3\src\routes\auth.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-24 17:18:02] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:18:02] [[31merror[39m] uncaughtException: Cannot find module 'bcrypt'
+Require stack:
+- E:\Najot talim\Exam_3\src\controllers\auth.js
+- E:\Najot talim\Exam_3\src\routes\auth.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module 'bcrypt'
+Require stack:
+- E:\Najot talim\Exam_3\src\controllers\auth.js
+- E:\Najot talim\Exam_3\src\routes\auth.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\controllers\auth.js:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-24 17:18:45] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:18:45] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:18:45] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:19:20] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:19:20] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:19:20] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:39:29] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:39:29] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:39:29] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:39:57] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:39:57] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:39:57] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:40:00] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:40:01] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:40:01] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:40:07] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:40:07] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:40:07] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:40:08] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:40:09] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:40:09] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:40:14] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:40:14] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:40:14] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:40:21] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:40:22] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:40:22] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:40:50] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:40:50] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:40:50] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:40:52] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:40:53] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:40:53] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:40:54] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:40:55] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:40:55] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:41:10] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:41:10] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:41:10] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:41:20] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:41:21] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:41:21] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:41:26] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:41:26] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:41:26] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:41:33] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:41:33] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:41:33] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:41:36] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:41:36] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:41:36] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:42:16] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:42:17] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:42:17] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:42:30] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:42:30] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:42:30] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:43:34] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:43:34] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:43:34] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:43:37] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:43:37] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:43:37] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:43:41] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:43:42] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:43:42] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:43:49] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:43:49] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:43:49] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:43:53] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:43:54] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:43:54] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:44:03] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:44:03] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:44:03] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:44:08] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:44:09] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:44:09] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:44:11] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:44:12] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:44:12] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:44:24] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:44:24] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:44:24] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:44:31] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:44:31] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:44:31] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:44:32] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:44:33] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:44:33] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:44:59] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:44:59] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:44:59] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:45:01] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:45:02] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:45:02] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:45:11] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:45:11] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:45:11] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:45:12] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:45:13] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:45:13] [[32minfo[39m] Routes loaded!
+[2023-06-24 17:45:20] [[32minfo[39m] Environment variables loaded!
+[2023-06-24 17:45:21] [[32minfo[39m] Middleware's loaded!
+[2023-06-24 17:45:21] [[32minfo[39m] Routes loaded!
