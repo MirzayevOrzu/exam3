@@ -17,8 +17,7 @@ module.exports = class BrendController {
 
       let { name } = req.body;
 
-      let isBrend = await prisma.brend.findFirst
-      ({
+      let isBrend = await prisma.brend.findFirst({
         where: { name },
       });
 
@@ -46,7 +45,11 @@ module.exports = class BrendController {
 
   GET_BREND = async (req, res, next) => {
     try {
-      let brend = await prisma.brend.findMany();
+      let brend = await prisma.brend.findMany({
+        include: {
+          Model: true
+        },
+      });
 
       res.status(200).json({
         msg: "Ok",

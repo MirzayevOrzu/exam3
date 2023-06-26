@@ -1722,3 +1722,860 @@ TypeError: Cannot read properties of undefined (reading 'array')
     at Module._load (node:internal/modules/cjs/loader:958:12)
     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
     at node:internal/main/run_main_module:23:47
+[2023-06-26 10:23:48] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:23:49] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:23:49] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:04:03] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:04:07] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:04:07] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:12:47] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:12:48] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:12:48] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:12:50] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:12:50] [[31merror[39m] uncaughtException: Unexpected token '}'
+E:\Najot talim\Exam_3\src\controllers\model.js:151
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\model.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 11:12:53] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:12:53] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:12:53] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:12:54] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:12:55] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:12:55] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:12:58] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:12:59] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:12:59] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:13:04] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:13:04] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:13:04] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:13:28] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:13:28] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:13:28] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:14:15] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:14:16] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:14:16] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:14:22] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:14:23] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:14:23] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:14:36] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:14:37] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:14:37] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:14:48] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:14:48] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:14:48] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:14:51] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:14:51] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:14:51] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:15:36] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:15:37] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:15:37] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:15:39] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:15:40] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:15:40] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:15:41] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:15:41] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:15:41] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:15:45] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:15:46] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:15:46] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:16:22] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:16:22] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:16:22] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:16:25] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:16:25] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:16:25] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:16:36] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:16:36] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:16:36] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:16:44] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:16:44] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:16:44] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:16:50] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:16:50] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:16:50] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:16:52] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:16:53] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:16:53] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:17:26] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:17:26] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:17:26] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:18:33] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:18:34] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:18:34] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:18:38] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:18:39] [[31merror[39m] uncaughtException: Unexpected token '}'
+E:\Najot talim\Exam_3\src\controllers\model.js:35
+            }
+            ^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\model.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 11:18:42] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:18:42] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:18:42] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:19:09] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:19:10] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:19:10] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:19:19] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:19:19] [[31merror[39m] uncaughtException: Unexpected token '}'
+E:\Najot talim\Exam_3\src\controllers\model.js:34
+              where: { id:  }
+                            ^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\model.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 11:19:24] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:19:24] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:19:24] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:19:30] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:19:30] [[31merror[39m] uncaughtException: Unexpected token ')'
+E:\Najot talim\Exam_3\src\controllers\model.js:38
+      });
+       ^
+
+SyntaxError: Unexpected token ')'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\model.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 11:19:32] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:19:33] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:19:33] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:19:37] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:19:37] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:19:37] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:19:41] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:19:42] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:19:42] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:20:32] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:20:32] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:20:32] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:20:36] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:20:37] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:20:37] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:20:42] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:20:43] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:20:43] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:20:46] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:20:46] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:20:46] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:20:48] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:20:49] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:20:49] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:20:53] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:20:53] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:20:53] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:20:56] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:20:57] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:20:57] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:21:11] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:21:12] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:21:12] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:21:14] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:21:14] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:21:14] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:21:17] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:21:18] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:21:18] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:21:20] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:21:20] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:21:20] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:21:29] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:21:30] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:21:30] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:21:31] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:21:31] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:21:31] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:29:37] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:29:37] [[31merror[39m] uncaughtException: Unexpected token '('
+E:\Najot talim\Exam_3\src\routes\upload.js:28
+      upload.("image"),
+             ^
+
+SyntaxError: Unexpected token '('
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\index.js:6:24)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 11:29:41] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:29:41] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:29:41] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:30:31] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:30:31] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:30:31] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:33:22] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:33:23] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:33:23] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:33:25] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:33:26] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:33:26] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:33:29] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:33:30] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:33:30] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:33:30] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:33:30] [[31merror[39m] uncaughtException: Unexpected token ','
+E:\Najot talim\Exam_3\src\controllers\computer.js:164
+    brend_id: Joi.number().,
+                           ^
+
+SyntaxError: Unexpected token ','
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\computer.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 11:33:34] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:33:34] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:33:34] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:33:37] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:33:37] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:33:37] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:33:43] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:33:44] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:33:44] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:33:58] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:33:58] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:33:58] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:34:01] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:34:01] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:34:01] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:34:15] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:34:15] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:34:15] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:35:02] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:35:02] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:35:02] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:35:05] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:35:06] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:35:06] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:35:08] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:35:08] [[31merror[39m] uncaughtException: Unexpected token '}'
+E:\Najot talim\Exam_3\src\controllers\computer.js:34
+          }
+          ^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\computer.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 11:35:10] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:35:10] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:35:10] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:35:12] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:35:12] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:35:12] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:35:20] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:35:20] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:35:20] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:35:23] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:35:23] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:35:23] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:35:26] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:35:27] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:35:27] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:35:32] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:35:32] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:35:32] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:35:34] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:35:34] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:35:34] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:35:37] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:35:37] [[31merror[39m] uncaughtException: Invalid or unexpected token
+E:\Najot talim\Exam_3\src\controllers\computer.js:37
+          model: {\
+                  ^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\computer.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 11:35:40] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:35:40] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:35:40] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:35:44] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:35:45] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:35:45] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:35:48] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:35:48] [[31merror[39m] uncaughtException: Unexpected token '}'
+E:\Najot talim\Exam_3\src\controllers\computer.js:40
+            }
+            ^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\computer.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 11:35:51] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:35:52] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:35:52] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:38:48] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:38:49] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:38:49] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:38:51] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:38:52] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:38:52] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:38:55] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:38:56] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:38:56] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:38:57] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:38:58] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:38:58] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:39:02] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:39:02] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:39:02] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:39:23] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:39:23] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:39:23] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:39:29] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:39:29] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:39:29] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:39:30] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:39:31] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:39:31] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:41:11] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:41:12] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:41:12] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:41:13] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:41:14] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:41:14] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:41:18] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:41:18] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:41:18] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:41:20] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:41:20] [[31merror[39m] uncaughtException: Unexpected token '}'
+E:\Najot talim\Exam_3\src\controllers\computer.js:48
+            }
+            ^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\computer.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 11:41:22] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:41:22] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:41:22] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:41:25] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:41:25] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:41:25] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:41:31] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:41:31] [[31merror[39m] uncaughtException: Unexpected identifier
+E:\Najot talim\Exam_3\src\controllers\computer.js:18
+      let { name, brend_id, model_id, catweg image, description, price } = req.body;
+                                             ^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\computer.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 11:41:33] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:41:33] [[31merror[39m] uncaughtException: Unexpected identifier
+E:\Najot talim\Exam_3\src\controllers\computer.js:18
+      let { name, brend_id, model_id, cate image, description, price } = req.body;
+                                           ^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\computer.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 11:41:34] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:41:34] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:41:34] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:42:05] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:42:05] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:42:05] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:42:06] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:42:07] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:42:07] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:42:10] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:42:11] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:42:11] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:42:13] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:42:13] [[31merror[39m] uncaughtException: Unexpected token '}'
+E:\Najot talim\Exam_3\src\controllers\computer.js:186
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\computer.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 11:42:15] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:42:16] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:42:16] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:42:17] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:42:17] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:42:17] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:42:18] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:42:19] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:42:19] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:46:18] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:46:19] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:46:19] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:46:22] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:46:23] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:46:23] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:46:32] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:46:32] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:46:32] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:46:36] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:46:37] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:46:37] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:47:23] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:47:23] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:47:23] [[32minfo[39m] Routes loaded!
+[2023-06-26 11:47:25] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 11:47:25] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 11:47:25] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:22:58] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:22:59] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:22:59] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:23:42] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:23:43] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:23:43] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:23:47] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:23:47] [[31merror[39m] uncaughtException: Unexpected token '}'
+E:\Najot talim\Exam_3\src\controllers\computer.js:80
+      let computer = await prisma.computer.findMany(});
+                                                    ^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\computer.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 12:23:49] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:23:49] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:23:49] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:23:50] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:23:50] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:23:50] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:23:54] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:23:55] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:23:55] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:23:56] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:23:57] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:23:57] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:26:40] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:26:41] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:26:41] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:26:43] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:26:43] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:26:43] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:26:48] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:26:49] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:26:49] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:27:18] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:27:18] [[31merror[39m] uncaughtException: Unexpected token '<'
+E:\Najot talim\Exam_3\src\controllers\upload.js:12
+      if (req. < 1) {
+               ^
+
+SyntaxError: Unexpected token '<'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 12:27:22] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:27:22] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:27:23] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:28:06] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:28:06] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:28:06] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:28:09] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:28:10] [[31merror[39m] uncaughtException: Unexpected token '<'
+E:\Najot talim\Exam_3\src\controllers\upload.js:13
+      if (req. < 1) {
+               ^
+
+SyntaxError: Unexpected token '<'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 12:28:16] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:28:16] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:28:16] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:28:18] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:28:18] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:28:18] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:28:43] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:28:43] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:28:43] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:29:11] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:29:12] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:29:12] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:31:31] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:31:32] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:26:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 12:32:11] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:32:12] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:26:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 12:32:17] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:32:18] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:26:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 12:32:19] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:32:19] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:26:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 12:32:21] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:32:21] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:26:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 12:32:23] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:32:24] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:26:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 12:32:25] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:32:25] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:26:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 12:32:27] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:32:28] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:26:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 12:32:29] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:32:30] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:26:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 12:32:32] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:32:32] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:26:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 12:32:33] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:32:34] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:26:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 12:32:37] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:32:37] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:26:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 12:32:38] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:32:39] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:26:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 12:33:29] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:33:29] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:26:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 12:33:56] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:33:56] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:33:56] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:34:54] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:34:54] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:34:54] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:35:02] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:35:02] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:35:02] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:35:28] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:35:29] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:35:29] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:35:31] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:35:31] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:35:31] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:35:33] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:35:34] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:35:34] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:35:35] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:35:36] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:35:36] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:35:37] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:35:37] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:35:37] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:35:41] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:35:41] [[31merror[39m] uncaughtException: Unexpected token '}'
+E:\Najot talim\Exam_3\src\controllers\computer.js:120
+            }
+            ^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\computer.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 12:35:45] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:35:46] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:35:46] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:35:53] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:35:54] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:35:54] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:35:55] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:35:55] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:35:55] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:35:58] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:35:58] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:35:58] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:36:02] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:36:03] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:36:03] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:36:07] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:36:07] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:36:07] [[32minfo[39m] Routes loaded!
+[2023-06-26 12:36:11] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:36:11] [[31merror[39m] uncaughtException: Unexpected token ','
+E:\Najot talim\Exam_3\src\controllers\computer.js:129
+              id: ,
+                  ^
+
+SyntaxError: Unexpected token ','
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\computer.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 12:36:13] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 12:36:13] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 12:36:13] [[32minfo[39m] Routes loaded!

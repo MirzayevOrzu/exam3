@@ -23,7 +23,6 @@ module.exports = class ComputerRoutes {
   initRoutes = () => {
     this.router.post("/", this.mComputer, this.controller.CREATE_COMPUTER);
     this.router.get("/", this.controller.GET_ALL_COMPUTERS);
-    this.router.get("/:id", this.controller.GET_COMPUTER);
     this.router.put("/:id", this.mComputer, this.controller.UPDATE_COMPUTER);
     this.router.delete("/:id", this.mComputer, this.controller.DELETE_COMPUTER);
   };

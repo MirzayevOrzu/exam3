@@ -17,7 +17,7 @@ module.exports = class ModelController {
 
       let { name, brend_id } = req.body;
 
-      let isCategory = await prisma.model.findUnique({
+      let isCategory = await prisma.model.findFirst({
         where: { name },
       });
 
@@ -26,15 +26,19 @@ module.exports = class ModelController {
           message: "Bunday user mavjud",
         });
 
-      let newCategory = await prisma.model.create({
+      let newModel = await prisma.model.create({
         data: {
           name,
-          brend_id,
+          brend: {
+            connect: {
+              id: brend_id
+            },
+          },
         },
       });
 
       res.status(200).json({
-        data: newCategory,
+        data: newModel,
         message: "Ok",
       });
 
@@ -147,6 +151,7 @@ module.exports = class ModelController {
 function validateCategory(model) {
   const schema = Joi.object({
     name: Joi.string().required(),
+    brend_id: Joi.number().required(),
   });
 
   return schema.validate(model);

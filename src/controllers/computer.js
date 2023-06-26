@@ -15,20 +15,39 @@ module.exports = class ComputerController {
       const { error } = validateCategory(req.body);
       if (error) return res.status(422).send(error.details[0].message);
 
-      let { name } = req.body;
+      let { name, brend_id, model_id, category_id, image, description, price } =
+        req.body;
 
-      let isCategory = await prisma.computer.findUnique({
+      let isCategory = await prisma.computer.findFirst({
         where: { name },
       });
 
       if (isCategory)
         return res.status(400).json({
-          message: "Bunday user mavjud",
+          message: "Bunday computer mavjud",
         });
 
       let newCategory = await prisma.computer.create({
         data: {
           name,
+          description,
+          price,
+          image,
+          brend: {
+            connect: {
+              id: brend_id,
+            },
+          },
+          model: {
+            connect: {
+              id: model_id,
+            },
+          },
+          category: {
+            connect: {
+              id: category_id,
+            },
+          },
         },
       });
 
@@ -38,19 +57,6 @@ module.exports = class ComputerController {
       });
 
       await next();
-    } catch (error) {
-      next(error);
-    }
-  };
-
-  GET_COMPUTER = async (req, res, next) => {
-    try {
-      let computer = await prisma.computer.findMany();
-
-      res.status(200).json({
-        msg: "Ok",
-        data: computer,
-      });
     } catch (error) {
       next(error);
     }
@@ -82,7 +88,7 @@ module.exports = class ComputerController {
 
       if (!computer)
         return res.status(404).json({
-          msg: "Bunaqa id li kategoriya mavjud emas",
+          msg: "Bunaqa id li komputer mavjud emas",
         });
 
       let duplicated_category = await prisma.computer.findFirst({
@@ -99,13 +105,8 @@ module.exports = class ComputerController {
           msg: "Bunaqa telefon raqam yoki username bn allaqachon royhatdan otilgan",
         });
 
-      if (!category) {
-        return res.status(404).json({
-          msg: "User not found",
-        });
-      }
-
-      let { name } = req.body;
+      let { name, brend_id, model_id, category_id, image, description, price } =
+        req.body;
 
       let updated_category = await prisma.computer.update({
         where: {
@@ -113,6 +114,24 @@ module.exports = class ComputerController {
         },
         data: {
           name,
+          brend: {
+            connect: {
+              id: brend_id,
+            },
+          },
+          model: {
+            connect: {
+              id: model_id,
+            },
+          },
+          category: {
+            connect: {
+              id: category_id,
+            },
+          },
+          image,
+          description,
+          price,
         },
       });
 
@@ -161,6 +180,9 @@ function validateCategory(computer) {
     image: Joi.string().required(),
     price: Joi.number().required(),
     description: Joi.string(),
+    brend_id: Joi.number().required(),
+    model_id: Joi.number().required(),
+    category_id: Joi.number().required(),
   });
 
   return schema.validate(computer);

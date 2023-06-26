@@ -7,7 +7,7 @@ module.exports = class UploadController {
    * @returns {Promise<void>}
    */
 
-  UPLOAD = async (req, res) => {
+  UPLOAD = async (req, res, next) => {
     try {
       if (req.files.length < 1) {
         return res.status(400).send({ message: "Please upload files!" });
@@ -18,9 +18,7 @@ module.exports = class UploadController {
         message: "Image uploaded successfully",
       });
     } catch (error) {
-      res
-        .status(500)
-        .send({ error: "Internal Server Error! Try again, please!" });
+      next(error);
     }
   };
 };
