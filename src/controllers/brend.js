@@ -15,25 +15,26 @@ module.exports = class BrendController {
       const { error } = validateCategory(req.body);
       if (error) return res.status(422).send(error.details[0].message);
 
-      let { name, brend } = req.body;
+      let { name } = req.body;
 
-      let isCategory = await prisma.brend.findUnique({
+      let isBrend = await prisma.brend.findFirst
+      ({
         where: { name },
       });
 
-      if (isCategory)
+      if (isBrend)
         return res.status(400).json({
-          message: "Bunday user mavjud",
+          message: "Bunday brend mavjud",
         });
 
-      let newCategory = await prisma.brend.create({
+      let newBrend = await prisma.brend.create({
         data: {
           name,
         },
       });
 
       res.status(200).json({
-        data: newCategory,
+        data: newBrend,
         message: "Ok",
       });
 
@@ -76,8 +77,7 @@ module.exports = class BrendController {
         where: {
           id: { not: brend.id },
           AND: {
-            phone: req.body.phone,
-            OR: { name: req.body.name },
+            name: req.body.name,
           },
         },
       });

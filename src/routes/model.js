@@ -1,7 +1,7 @@
 const express = require("express");
 const Controller = require("../controllers/model");
 const auth = require("../middleware/auth");
-const isAdmin = require("../middleware/isAdmin");
+const isSuperAdmin = require("../middleware/isSuperAdmin");
 
 module.exports = class ModelRoutes {
   path;
@@ -14,7 +14,7 @@ module.exports = class ModelRoutes {
     this.router = express.Router();
     this.controller = new Controller();
 
-    this.mCategory = [auth, isAdmin];
+    this.mCategory = [auth, isSuperAdmin];
 
     this.initRoutes();
   }

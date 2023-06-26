@@ -136,3 +136,1589 @@ TypeError: router.Routes is not a constructor
 [2023-06-26 00:10:03] [[32minfo[39m] Environment variables loaded!
 [2023-06-26 00:10:03] [[32minfo[39m] Middleware's loaded!
 [2023-06-26 00:10:03] [[32minfo[39m] Routes loaded!
+[2023-06-26 01:14:08] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:14:09] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 01:14:09] [[32minfo[39m] Routes loaded!
+[2023-06-26 01:18:10] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:18:11] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 01:18:11] [[32minfo[39m] Routes loaded!
+[2023-06-26 01:18:15] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:18:15] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 01:18:15] [[32minfo[39m] Routes loaded!
+[2023-06-26 01:18:18] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:18:18] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 01:18:18] [[32minfo[39m] Routes loaded!
+[2023-06-26 01:18:49] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:18:49] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 01:18:49] [[32minfo[39m] Routes loaded!
+[2023-06-26 01:18:52] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:18:52] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 01:18:52] [[32minfo[39m] Routes loaded!
+[2023-06-26 01:21:02] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:21:02] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 01:21:02] [[32minfo[39m] Routes loaded!
+[2023-06-26 01:21:04] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:21:05] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 01:21:05] [[32minfo[39m] Routes loaded!
+[2023-06-26 01:21:08] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:21:08] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 01:21:08] [[32minfo[39m] Routes loaded!
+[2023-06-26 01:23:09] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:23:09] [[31merror[39m] uncaughtException: Unexpected end of input
+E:\Najot talim\Exam_3\src\routes\index.js:7
+
+
+
+SyntaxError: Unexpected end of input
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 01:23:13] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:23:14] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 01:23:14] [[32minfo[39m] Routes loaded!
+[2023-06-26 01:26:51] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:26:51] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 01:26:51] [[32minfo[39m] Routes loaded!
+[2023-06-26 01:28:52] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:28:52] [[31merror[39m] uncaughtException: Unexpected token '.'
+E:\Najot talim\Exam_3\src\controllers\brend.js:20
+      let isCategory = await prisma..findUnique({
+                                    ^
+
+SyntaxError: Unexpected token '.'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\brend.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 01:28:55] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:28:55] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 01:28:55] [[32minfo[39m] Routes loaded!
+[2023-06-26 01:29:16] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:29:17] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 01:29:17] [[32minfo[39m] Routes loaded!
+[2023-06-26 01:29:19] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:29:20] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 01:29:20] [[32minfo[39m] Routes loaded!
+[2023-06-26 01:29:24] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:29:24] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 01:29:24] [[32minfo[39m] Routes loaded!
+[2023-06-26 01:29:27] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:29:27] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 01:29:27] [[32minfo[39m] Routes loaded!
+[2023-06-26 01:36:21] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:36:22] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 01:36:22] [[32minfo[39m] Routes loaded!
+[2023-06-26 01:42:44] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 01:42:45] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 01:42:45] [[32minfo[39m] Routes loaded!
+[2023-06-26 09:25:49] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:25:52] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 09:25:52] [[32minfo[39m] Routes loaded!
+[2023-06-26 09:28:40] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:28:41] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 09:28:41] [[32minfo[39m] Routes loaded!
+[2023-06-26 09:29:45] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:29:46] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 09:29:46] [[32minfo[39m] Routes loaded!
+[2023-06-26 09:29:49] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:29:49] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 09:29:49] [[32minfo[39m] Routes loaded!
+[2023-06-26 09:29:54] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:29:55] [[31merror[39m] uncaughtException: Unexpected identifier
+E:\Najot talim\Exam_3\src\controllers\brend.js:22
+      let isBrend = await prisma.brend.findUnique({
+          ^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\brend.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 09:29:56] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:29:57] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 09:29:57] [[32minfo[39m] Routes loaded!
+[2023-06-26 09:29:59] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:29:59] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 09:29:59] [[32minfo[39m] Routes loaded!
+[2023-06-26 09:30:01] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:30:02] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 09:30:02] [[32minfo[39m] Routes loaded!
+[2023-06-26 09:30:19] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:30:20] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 09:30:20] [[32minfo[39m] Routes loaded!
+[2023-06-26 09:30:25] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:30:26] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 09:30:26] [[32minfo[39m] Routes loaded!
+[2023-06-26 09:30:33] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:30:34] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 09:30:34] [[32minfo[39m] Routes loaded!
+[2023-06-26 09:30:48] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:30:48] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 09:30:48] [[32minfo[39m] Routes loaded!
+[2023-06-26 09:44:11] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:44:11] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 09:44:11] [[32minfo[39m] Routes loaded!
+[2023-06-26 09:49:00] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:49:01] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 09:49:01] [[32minfo[39m] Routes loaded!
+[2023-06-26 09:49:15] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:49:15] [[31merror[39m] uncaughtException: router.ModelRoutes is not a constructor
+TypeError: router.ModelRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-06-26 09:49:16] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:49:17] [[31merror[39m] uncaughtException: router.ModelRoutes is not a constructor
+TypeError: router.ModelRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-06-26 09:49:20] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:49:20] [[31merror[39m] uncaughtException: Unexpected token '='
+E:\Najot talim\Exam_3\src\routes\index.js:4
+exports. = require("./category");
+         ^
+
+SyntaxError: Unexpected token '='
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 09:49:26] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:49:27] [[31merror[39m] uncaughtException: router.ModelRoutes is not a constructor
+TypeError: router.ModelRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-06-26 09:49:28] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:49:29] [[31merror[39m] uncaughtException: router.CategoryRoutes is not a constructor
+TypeError: router.CategoryRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:8:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-06-26 09:49:30] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:49:30] [[31merror[39m] uncaughtException: router.CategoryRoutes is not a constructor
+TypeError: router.CategoryRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:8:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-06-26 09:49:33] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:49:33] [[31merror[39m] uncaughtException: Unexpected token '='
+E:\Najot talim\Exam_3\src\routes\index.js:3
+exports. = require("./auth");
+         ^
+
+SyntaxError: Unexpected token '='
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 09:49:37] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:49:38] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 09:49:38] [[32minfo[39m] Routes loaded!
+[2023-06-26 09:50:23] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:50:23] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:20:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:14:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:50:36] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:50:37] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:21:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:15:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:50:39] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:50:39] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:21:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:15:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:50:40] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:50:41] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:21:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:15:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:50:45] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:50:45] [[31merror[39m] uncaughtException: mComputer is not defined
+ReferenceError: mComputer is not defined
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:15:5)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-06-26 09:50:49] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:50:49] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:23:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:17:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:50:52] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:50:53] [[31merror[39m] uncaughtException: auth is not defined
+ReferenceError: auth is not defined
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:16:23)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-06-26 09:50:56] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:50:56] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:25:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:51:02] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:51:02] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:25:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:51:04] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:51:04] [[31merror[39m] uncaughtException: missing ) after argument list
+E:\Najot talim\Exam_3\src\routes\computer.js:24
+    this.router.get("/", mComputer this.controller.CREATE);
+                         ^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\index.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 09:51:07] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:51:08] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:25:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:51:19] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:51:19] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:25:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:51:23] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:51:24] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:25:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:51:27] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:51:28] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:25:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:51:30] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:51:30] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:25:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:51:32] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:51:32] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:25:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:51:59] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:51:59] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:25:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:52:01] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:52:01] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:25:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:52:09] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:52:09] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:25:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:52:17] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:52:17] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:25:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:52:33] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:52:33] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:52:42] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:52:42] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:52:45] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:52:45] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:52:52] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:52:52] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:53:04] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:53:05] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:53:12] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:53:12] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:53:18] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:53:18] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:53:23] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:53:24] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:55:40] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:55:40] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:55:41] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:55:42] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:55:44] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:55:44] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:55:46] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:55:47] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:59:02] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:59:02] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:59:06] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:59:06] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:59:12] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:59:13] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:59:16] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:59:17] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:59:19] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:59:19] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:59:23] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:59:24] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:59:26] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:59:26] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:59:27] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:59:27] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:59:34] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:59:34] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:59:36] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:59:37] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:59:39] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:59:39] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:59:45] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:59:45] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:59:49] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:59:49] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 09:59:53] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 09:59:53] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 10:00:04] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:00:04] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 10:00:06] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:00:07] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 10:00:21] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:00:21] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 10:00:23] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:00:24] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 10:00:25] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:00:25] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 10:00:26] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:00:27] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 10:00:34] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:00:35] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:24:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 10:01:10] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:01:10] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam_3\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at ComputerRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:25:17)
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:19:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-06-26 10:01:14] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:01:14] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:01:14] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:01:15] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:01:15] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:01:15] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:09:25] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:09:26] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:09:26] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:11:55] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:11:55] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:11:55] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:12:39] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:12:40] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:12:40] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:12:42] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:12:42] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:12:42] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:12:46] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:12:46] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:12:46] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:12:52] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:12:53] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:12:53] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:12:59] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:12:59] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:12:59] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:13:37] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:13:38] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:13:38] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:14:18] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:14:19] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:14:19] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:15:22] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:15:23] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:15:23] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:15:27] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:15:27] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:15:27] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:15:32] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:15:32] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:15:32] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:15:35] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:15:35] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:15:35] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:15:55] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:15:56] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:15:56] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:16:01] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:16:01] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:16:01] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:16:36] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:16:36] [[31merror[39m] uncaughtException: isSuperAdmin is not defined
+ReferenceError: isSuperAdmin is not defined
+    at new BrendRoutes (E:\Najot talim\Exam_3\src\routes\brend.js:17:29)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-06-26 10:16:43] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:16:43] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:16:43] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:16:49] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:16:49] [[31merror[39m] uncaughtException: isAdmin is not defined
+ReferenceError: isAdmin is not defined
+    at new CategoryRoutes (E:\Najot talim\Exam_3\src\routes\category.js:17:29)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:8:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-06-26 10:16:51] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:16:51] [[31merror[39m] uncaughtException: isAdmin is not defined
+ReferenceError: isAdmin is not defined
+    at new CategoryRoutes (E:\Najot talim\Exam_3\src\routes\category.js:17:29)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:8:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-06-26 10:16:52] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:16:53] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:16:53] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:16:57] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:16:57] [[31merror[39m] uncaughtException: isAdmin is not defined
+ReferenceError: isAdmin is not defined
+    at new ComputerRoutes (E:\Najot talim\Exam_3\src\routes\computer.js:17:29)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-06-26 10:16:58] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:16:58] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:16:58] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:17:01] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:17:02] [[31merror[39m] uncaughtException: isAdmin is not defined
+ReferenceError: isAdmin is not defined
+    at new ModelRoutes (E:\Najot talim\Exam_3\src\routes\model.js:17:29)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-06-26 10:17:03] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:17:03] [[31merror[39m] uncaughtException: isAdmin is not defined
+ReferenceError: isAdmin is not defined
+    at new ModelRoutes (E:\Najot talim\Exam_3\src\routes\model.js:17:29)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-06-26 10:17:05] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:17:06] [[31merror[39m] uncaughtException: isAdmin is not defined
+ReferenceError: isAdmin is not defined
+    at new ModelRoutes (E:\Najot talim\Exam_3\src\routes\model.js:17:29)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-06-26 10:17:07] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:17:07] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:17:08] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:17:20] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:17:21] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:17:21] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:17:24] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:17:25] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:17:25] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:17:27] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:17:27] [[32minfo[39m] Middleware's loaded!
+[2023-06-26 10:17:27] [[32minfo[39m] Routes loaded!
+[2023-06-26 10:17:28] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:17:29] [[31merror[39m] uncaughtException: Cannot find module '../controller/news'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/news'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:17:36] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:17:37] [[31merror[39m] uncaughtException: Cannot find module '../controller/news'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/news'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:17:49] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:17:49] [[31merror[39m] uncaughtException: Cannot find module '../controller/news'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/news'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:18:11] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:18:11] [[31merror[39m] uncaughtException: Cannot find module '../controller/news'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/news'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:18:23] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:18:23] [[31merror[39m] uncaughtException: Cannot find module '../controller/news'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/news'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:18:47] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:18:47] [[31merror[39m] uncaughtException: Cannot find module '../controller/news'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/news'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:18:51] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:18:51] [[31merror[39m] uncaughtException: Cannot find module '../controller/news'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/news'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:20:10] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:20:10] [[31merror[39m] uncaughtException: Cannot find module '../controller/'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:20:13] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:20:14] [[31merror[39m] uncaughtException: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:20:34] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:20:35] [[31merror[39m] uncaughtException: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:20:36] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:20:36] [[31merror[39m] uncaughtException: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:20:38] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:20:38] [[31merror[39m] uncaughtException: Unexpected token ')'
+E:\Najot talim\Exam_3\src\routes\upload.js:30
+    );
+    ^
+
+SyntaxError: Unexpected token ')'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\index.js:6:24)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 10:20:40] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:20:41] [[31merror[39m] uncaughtException: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:21:06] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:21:06] [[31merror[39m] uncaughtException: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:21:16] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:21:16] [[31merror[39m] uncaughtException: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:21:30] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:21:31] [[31merror[39m] uncaughtException: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:21:42] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:21:42] [[31merror[39m] uncaughtException: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:21:45] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:21:46] [[31merror[39m] uncaughtException: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:21:47] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:21:47] [[31merror[39m] uncaughtException: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:21:54] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:21:54] [[31merror[39m] uncaughtException: Unexpected token '('
+E:\Najot talim\Exam_3\src\routes\upload.js:28
+      upload.("image"),
+             ^
+
+SyntaxError: Unexpected token '('
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\index.js:6:24)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 10:21:57] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:21:57] [[31merror[39m] uncaughtException: Unexpected string
+E:\Najot talim\Exam_3\src\routes\upload.js:28
+      upload."image"),
+             ^^^^^^^
+
+SyntaxError: Unexpected string
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\index.js:6:24)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+[2023-06-26 10:22:01] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:22:01] [[31merror[39m] uncaughtException: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:22:07] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:22:08] [[31merror[39m] uncaughtException: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../controller/upload'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:2:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:23:09] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:23:09] [[31merror[39m] uncaughtException: Cannot find module '../middleware/multer'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+Error: Cannot find module '../middleware/multer'
+Require stack:
+- E:\Najot talim\Exam_3\src\routes\upload.js
+- E:\Najot talim\Exam_3\src\routes\index.js
+- E:\Najot talim\Exam_3\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\routes\upload.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-06-26 10:23:46] [[32minfo[39m] Environment variables loaded!
+[2023-06-26 10:23:47] [[31merror[39m] uncaughtException: Cannot read properties of undefined (reading 'array')
+TypeError: Cannot read properties of undefined (reading 'array')
+    at UploadRoutes.initRoutes (E:\Najot talim\Exam_3\src\routes\upload.js:28:14)
+    at new UploadRoutes (E:\Najot talim\Exam_3\src\routes\upload.js:20:10)
+    at Object.<anonymous> (E:\Najot talim\Exam_3\src\server.js:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47

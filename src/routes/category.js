@@ -1,7 +1,7 @@
 const express = require("express");
 const Controller = require("../controllers/category");
 const auth = require("../middleware/auth");
-const isAdmin = require("../middleware/isAdmin");
+const isSuperAdmin = require("../middleware/isSuperAdmin");
 
 module.exports = class CategoryRoutes {
   path;
@@ -14,7 +14,7 @@ module.exports = class CategoryRoutes {
     this.router = express.Router();
     this.controller = new Controller();
 
-    this.mCategory = [auth, isAdmin];
+    this.mCategory = [auth, isSuperAdmin];
 
     this.initRoutes();
   }

@@ -8,6 +8,7 @@ const app = new App([
     new router.CategoryRoutes(),
     new router.ModelRoutes(),
     new router.BrendRoutes(),
+    new router.UploadRoutes(),
 ])
 
 app.run();

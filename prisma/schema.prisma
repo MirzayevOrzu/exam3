@@ -17,16 +17,18 @@ enum UserRole {
 
 model Computer {
   id          Int    @id @default(autoincrement())
-  brend       String
   image       String
   name        String
   price       Float
   description String
 
-  model   Model @relation(fields: [modelId], references: [id])
+  brend   Brend? @relation(fields: [brendId], references: [id])
+  brendId Int
+
+  model   Model? @relation(fields: [modelId], references: [id])
   modelId Int
 
-  category   Category @relation(fields: [categoryId], references: [id])
+  category   Category? @relation(fields: [categoryId], references: [id])
   categoryId Int
 
   @@map("computer")
@@ -62,9 +64,10 @@ model Model {
 }
 
 model Brend {
-  id    Int     @id @default(autoincrement())
-  name  String
-  Model Model[]
+  id       Int        @id @default(autoincrement())
+  name     String
+  Model    Model[]
+  Computer Computer[]
 
   @@map("brend")
 }
